@@ -1,6 +1,5 @@
 ## 👋  Hi,I'm ALUPANA SAI
 
----
  ## 📌 About Me
 
 Passionate and self-motivated Software Developer with strong knowledge of React.js, JavaScript, Python, HTML, CSS, and Git/GitHub.
