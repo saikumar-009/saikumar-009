@@ -43,8 +43,6 @@ Always learning, building, and improving.
 - 🐙 GitHub
 - 💻 VS Code
 
----
-
 🎯 Career Interests
 
 - ⚛️ React Developer
