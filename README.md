@@ -1,6 +1,6 @@
 👋  Hi,I'm ALUPANA SAI
 
-
+---
 📌 About Me
 
 Passionate and self-motivated Software Developer with strong knowledge of React.js, JavaScript, Python, HTML, CSS, and Git/GitHub.
@@ -15,9 +15,9 @@ Open to opportunities as:
 
 Always learning, building, and improving.
 
+---
 
 💻 Technical Skills:
-
 
 🎨 Frontend
 
@@ -54,6 +54,8 @@ Always learning, building, and improving.
 - 🌐 Full Stack Developer (Future)
 - 🚀 Software Engineer
 
+---
+
 🏆 Projects:
 
 
@@ -64,7 +66,7 @@ Always learning, building, and improving.
 
 
 
-
+---
 
 📬 Connect with Me:
 
@@ -73,7 +75,7 @@ Always learning, building, and improving.
 💼 LinkedIn: Alupana Sai
 🏗️ GitHub: Alupana Sai
 
-
+---
 💡 Feedback Welcome!
 
 I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀
