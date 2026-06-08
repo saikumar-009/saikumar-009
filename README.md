@@ -20,6 +20,7 @@ Always learning, building, and improving.
 
 🎨 Frontend
 
+- 🐍 Python
 - 🌐 HTML5
 - 🎨 CSS3
 - 📜 JavaScript (ES6+)
@@ -28,7 +29,6 @@ Always learning, building, and improving.
 
 ⚙️ Backend
 
-- 🐍 Python
 - 🟢 Node.js (Learning)
 - 🚂 Express.js (Learning)
 
